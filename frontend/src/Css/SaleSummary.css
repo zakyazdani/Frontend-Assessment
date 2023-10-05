@@ -1,0 +1,103 @@
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    padding: 10px;
+    gap: 45px;
+  }
+
+  .header-section {
+    flex: 1;
+    text-align: center;
+  }
+
+  .header-section:last-child {
+    text-align: right;
+  }
+
+  .sale-summary{
+    background-color: antiquewhite;
+    width: 32%;
+    margin: 10px;
+    padding: 4px;
+  }
+  .summary-item {
+    display: flex;
+    background-color: honeydew;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+ .cross-button{
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background-color: red;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        border: none;
+        outline: none;
+        color: white;
+        font-size: 1.2em;
+      
+ }
+ /* .price{
+    margin-left: 55px;
+ }
+ .decrease{
+    margin-left: 50px;
+ }
+ .item-total{
+    margin-left: 40px;
+ } */
+.summary-totals {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: darkgray;
+    margin: 6px;
+  }
+
+  .sub-total{
+    margin-left: 80px;
+  }
+  .total{
+    margin-left: 108px;
+  }
+  .input-vat{
+    width: 80px; 
+    padding: 5px;
+    margin-left: 115px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  .input-discount{
+    width: 80px; 
+    padding: 5px;
+    margin-left: 77px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .summary-totals p:last-child {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .summary-totals label {
+    display: inline-block;
+    width: 100px;
+  }
+  .no-item{
+    text-align: center;
+    background-color: #ccc;
+    height: 55px;
+    margin-top: 15px;
+  }

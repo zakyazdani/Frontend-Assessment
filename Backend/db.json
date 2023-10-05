@@ -1,0 +1,182 @@
+{
+    "products": [
+        {
+            "id": 987,
+            "name": "computer",
+            "price": "50",
+            "category":"Computers",
+            "description":"Computer, computer accessories , etc",
+            "image": "https://cdn.pixabay.com/photo/2016/11/29/08/41/apple-1868496_640.jpg"
+        },
+        {
+            "id": 986,
+            "name": "CPU",
+            "price": "30",
+            "category":"Computers",
+            "description":"Computer, computer accessories ,CPU, etc",
+            "image": "https://cdn.pixabay.com/photo/2015/03/21/19/27/pc-684125_640.jpg"
+        },
+        {
+            "id": 985,
+            "name": "Sweater",
+            "price": "10",
+            "category":"Fashion",
+            "description":"Fashion, Clothing , Cloth , Sweater ",
+            "image": "https://media.istockphoto.com/id/1346345876/photo/stack-of-sweaters.webp?b=1&s=612x612&w=0&k=20&c=bpazZ3WulJ-DHkwCH0Qz3bXhJvrdqA1dqtHbrQhqDdo="
+        },
+        {
+            "id": 984,
+            "name": "Tie",
+            "price": "2",
+            "category":"Fashion",
+            "description":"Fashion, Clothing , Cloth, tie",
+            "image": "https://cdn.pixabay.com/photo/2019/04/15/01/00/rollers-4128215_640.jpg"
+        },
+        {
+            "id": 983,
+            "name": "Jacket",
+            "price": "12",
+            "category":"Fashion",
+            "description":"Fashion, Clothing , Cloth, jacket",
+            "image": "https://media.istockphoto.com/id/1438058575/photo/multicolored-winter-down-jackets-hanging-on-hangers-in-the-store-close-up-side-view.webp?b=1&s=612x612&w=0&k=20&c=ljRP1lPVGLMd25gqooiwB1uuSqKbJi2kPnk5Tav_LFE="
+        },
+        {
+            "id": 982,
+            "name": "Jacket Men",
+            "price": "11",
+            "category":"Fashion",
+            "description":"Fashion, Clothing , Cloth, jacket, jacket men",
+            "image": "https://media.istockphoto.com/id/1404654875/photo/various-vintage-jackets-on-clothing-rack-in-second-hand-store.webp?b=1&s=612x612&w=0&k=20&c=DxnHr7Hq80A7-PJFxJiRoVETSJetLif4an3DICS8Nfg="
+        },
+        {
+            "id": 982,
+            "name": "Grapes",
+            "price": "3",
+            "category":"Daily Essentials",
+            "description":"Food , Food item , Grapes",
+            "image": "https://cdn.pixabay.com/photo/2018/06/14/13/20/blueberries-3474854_640.jpg"
+        },
+        {
+            "id": 981,
+            "name": "Strawberies",
+            "price": "2",
+            "category":"Daily Essentials",
+            "description":"Food , Food item , Strawberies",
+            "image": "https://cdn.pixabay.com/photo/2016/04/15/08/04/strawberry-1330459_640.jpg"
+        },
+        {
+            "id": 980,
+            "name": "Apple",
+            "price": "2",
+            "category":"Daily Essentials",
+            "description":"Food , Food item , Apple",
+            "image": "https://cdn.pixabay.com/photo/2016/01/05/13/58/apple-1122537_1280.jpg"
+        },
+        {
+            "id": 123,
+            "name": "orange",
+            "price": "2",
+            "category":"Daily Essentials",
+            "description":"Food , Food item , Orange",
+            "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_960_720.jpg"
+        },
+        {
+            "id": 131,
+            "name": "Milk",
+            "price": "3",
+            "category":"Daily Essentials",
+            "description":"Food , Food item , milk",
+            "image": "https://cdn.pixabay.com/photo/2018/03/16/16/42/milk-3231772_960_720.jpg"
+        },
+        {
+            "id": 132,
+            "name": "Ice Cream",
+            "price": "4",
+            "category":"Daily Essentials",
+            "description":"Food , Food item , Ice-cream",
+            "image": "https://cdn.pixabay.com/photo/2016/12/26/16/09/bowl-1932375_960_720.jpg"
+        },
+        {
+            "id": 133,
+            "name": "Salmon",
+            "price": "10",
+            "category":"Fruits",
+            "description":"Food , Food item , Salmon",
+            "image": "https://cdn.pixabay.com/photo/2021/01/05/23/18/salmon-5892659_960_720.jpg"
+        },
+        {
+            "id": 134,
+            "name": "Watermelon",
+            "price": "2",
+            "category":"Fruits",
+            "description":"Food , Food item , Watermelon",
+            "image": "https://cdn.pixabay.com/photo/2015/09/27/18/18/watermelons-961128_960_720.jpg"
+        },
+        {
+            "id": 135,
+            "name": "Potato",
+            "price": "4",
+            "category":"Vegetables",
+            "description":"Food , Food item , Potato",
+            "image": "https://cdn.pixabay.com/photo/2016/08/11/08/43/potatoes-1585060_960_720.jpg"
+        },
+        {
+            "id": 136,
+            "name": "Mouse",
+            "price": "13",
+            "category":"Computers",
+            "description":"Computer, computer accessories ,Mouse, etc",
+            "image": "https://cdn.pixabay.com/photo/2017/05/24/21/33/workplace-2341642_640.jpg"
+        },
+        {
+            "id": 137,
+            "name": "Keyboard",
+            "price": "13",
+            "category":"Computers",
+            "description":"Computer, computer accessories ,Keyboard, etc",
+            "image": "https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_640.jpg"
+        },
+        {
+            "id": 138,
+            "name": "Headphone",
+            "price": "12",
+            "category":"Computers",
+            "description":"Computer, computer accessories ,Headphone, etc",
+            "image": "https://cdn.pixabay.com/photo/2016/11/29/09/08/headphones-1868612_640.jpg"
+        },
+        {
+            "id": 139,
+            "name": "Motherboard",
+            "price": "24",
+            "category":"Computers",
+            "description":"Computer, computer accessories ,Motherboard, etc",
+            "image": "https://cdn.pixabay.com/photo/2016/03/27/20/49/usb-1284227_640.jpg"
+        },
+        {
+            "id": 140,
+            "name": "Notebook",
+            "price": "6",
+            "category":"Books",
+            "description":"Books, Books accessories ,Education, etc",
+            "image": "https://cdn.pixabay.com/photo/2016/11/23/00/37/art-1851483_640.jpg"
+        },
+        {
+            "id": 141,
+            "name": "Gift Folding",
+            "price": "4",
+            "category":"Books",
+            "description":"Books, Books accessories , Gift Foldings, etc",
+            "image": "https://cdn.pixabay.com/photo/2018/11/12/20/45/gift-3811740_640.jpg"
+        },
+        {
+            "id": 142,
+            "name": "Pizza",
+            "price": "9",
+            "category":"Food",
+            "description":"Food, Food Items, Pizza, etc",
+            "image": "https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.webp?b=1&s=612x612&w=0&k=20&c=HU9fGxunk5fCW3pN-I1cS53X8--QBgYYDUPInhyTMZU="
+        }
+
+        
+    ]
+}

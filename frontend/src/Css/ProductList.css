@@ -1,0 +1,9 @@
+.product-list-container{
+    width: 77%;
+float: right;
+}
+.product-list{
+    background-color: antiquewhite;
+    width: 65%;
+    float: right;
+}
